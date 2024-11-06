@@ -1,7 +1,7 @@
 ## 💎 dIA 다이아
 ### 하나금융그룹의 VIP 손님을 위한 180°달라질 PB(Private Banker) 상담 서비스, dIA
 
-> 디지털 하나로4기 - 금융 서비스 고객 응대 플랫폼 개발 프로젝트
+> 디지털 하나로 4기 - 금융 서비스 고객 응대 플랫폼 개발 프로젝트
 
 <table>
   <tr>
@@ -35,7 +35,7 @@
     	<td align="center">유정걸</td>
     	<td align="center">ai보이 천적</td>
     	<td align="center">인간같은 로봇</td>
-    	<td align="center">현수수수수퍼노바</td>
-			<td align="center">부팀장걸</td>
+    	<td align="center">현수수수퍼노바</td>
+	<td align="center">부팀장걸</td>
   </tr>
 </table>
