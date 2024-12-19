@@ -33,7 +33,7 @@
     	<td align="center">팀장걸</td>
     	<td align="center">하나로 이봉주</td>
     	<td align="center">유정걸</td>
-    	<td align="center">ai보이 천적</td>
+    	<td align="center">구타 유발자</td>
     	<td align="center">인간같은 로봇</td>
     	<td align="center">현수수수퍼노바</td>
 	<td align="center">부팀장걸</td>
