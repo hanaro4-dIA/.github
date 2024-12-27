@@ -21,9 +21,9 @@ https://diapb.kebhana.topician.com/login
 ## 기술 스택
 [![My Skills](https://skillicons.dev/icons?i=react,typescript,next,css,tailwind)](https://skillicons.dev)
 <br>
-[![My Skills](https://skillicons.dev/icons?i=java,spring,python,flask,mysql)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,spring,py,flask,mysql)](https://skillicons.dev)
 <br>
-[![My Skills](https://skillicons.dev/icons?i=github,aws)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=github,aws,nginx,postman)](https://skillicons.dev)
 
 ## 팀원
 <table>
