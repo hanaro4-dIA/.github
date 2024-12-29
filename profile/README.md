@@ -1,7 +1,7 @@
 ## 💎 dIA 다이아
 ### 👨‍💻 디지털 하나로 4기 - 금융 서비스 고객 응대 플랫폼 개발 프로젝트
 
-### 하나금융그룹의 VIP 손님을 위한 180°달라질 PB(Private Banker) 상담 서비스, dIA
+### 하나금융그룹의 VIP 손님을 위한 180°달라진 PB(Private Banker) 상담 서비스, dIA
 
 
 
@@ -56,7 +56,7 @@
     <td><img src="https://github.com/jangdayeon.png" width="100px" /></td>
   </tr>
   <tr>
-	<td align="center"><a href="https://github.com/Kyoungeun-creator">조경은</a>
+	<td align="center"><a href="https://github.com/KyoungEun-creator">조경은</a>
     	</td>
     	<td align="center"><a href="https://github.com/BBZJUN">강재준</a>
     	</td>
