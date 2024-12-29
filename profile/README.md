@@ -1,13 +1,9 @@
 ## 💎 dIA 다이아
+### 👨‍💻 디지털 하나로 4기 - 금융 서비스 고객 응대 플랫폼 개발 프로젝트
+
 ### 하나금융그룹의 VIP 손님을 위한 180°달라질 PB(Private Banker) 상담 서비스, dIA
 
 
-https://diapb.kebhana.topician.com/login 
-<br>
-<br>
-
-
-### 👨‍💻 디지털 하나로 4기 - 금융 서비스 고객 응대 플랫폼 개발 프로젝트
 
 ## 목차
 - [ 개요 ](#개요)
@@ -18,7 +14,7 @@ https://diapb.kebhana.topician.com/login
 <br>
 
 ## 개요
-### 하나은행 VIP 고객과 전담 PB간에 빠르고 정확한 상담을 위한 VIP 전용 금융 상담 플랫폼 입니다.
+### 하나은행 VIP 손님과 전담 PB 간의 빠르고 정확한 상담을 위한 VIP 전용 금융 상담 플랫폼 입니다.
 <br>
 
 ## 기술 스택
@@ -35,16 +31,16 @@ https://diapb.kebhana.topician.com/login
 ### VIP
 1. PB가 상담 가능 상황일 때 '즉시' 상담 가능한 빠른 상담 기능
 2. 자세한 상담 예약 기능
-3. 상담 이후 상담일지 열람 및 다운로드 기능
+3. 상담 이후 상담일지 열람 및 pdf 다운로드 기능
 4. 손님 개인 맞춤형 최신 금융 기사, 추천 금융 상품 제공 기능
-5. PB가 전송한 알림 수신 기능
+5. PB가 전송한 쪽지 수신 기능
 
 ### PB
 1. STT(Speech To Text)를 통한 상담 통화 기록 자동화 기능
 2. 통화 기록 기반의 키워드 추출 및 자동 상담 일지 작성 기능
 3. 쪽지 전송 기능
-4. 웹 소켓을 활용한 PB, VIP간 실시간 상태 정보 공유 기능
-5. 금융 용어 사전 기능
+4. 웹 소켓을 활용한 PB, VIP 간 실시간 상담 가능 여부 정보 공유 기능
+5. 금융용어 사전 제공 기능
 
 <br>
 
@@ -79,9 +75,9 @@ https://diapb.kebhana.topician.com/login
     	<td align="center">팀장걸</td>
     	<td align="center">하나로 이봉주</td>
     	<td align="center">유정걸</td>
-    	<td align="center">구타 유발자</td>
+    	<td align="center">진거라~!~!</td>
     	<td align="center">인간같은 로봇</td>
     	<td align="center">현수수수퍼노바</td>
-	<td align="center">부팀장걸</td>
+	<td align="center">부팀장선배</td>
   </tr>
 </table>
