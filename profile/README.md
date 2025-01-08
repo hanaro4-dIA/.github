@@ -3,6 +3,8 @@
 
 ### 하나금융그룹의 VIP 손님을 위한 180°달라진 PB(Private Banker) 상담 서비스, dIA
 
+### 🏆 1차 프로젝트 종합 1위 우수프로젝트상 수상
+
 [vip 사이트 바로가기](https://dia-vip-fe.vercel.app/) <br/>
 
 [pb 사이트 바로가기](https://dia-pb-fe.vercel.app/)
