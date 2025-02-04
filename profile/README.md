@@ -5,6 +5,8 @@
 
 ### 🏆 1차 프로젝트 종합 1위 우수프로젝트상 수상
 
+[유튜브 시연 영상 바로가기](https://www.youtube.com/watch?v=q66A-Tz5t5w) <br/>
+
 [vip 사이트 바로가기](https://dia-vip-fe.vercel.app/) <br/>
 
 [pb 사이트 바로가기](https://dia-pb-fe.vercel.app/)
